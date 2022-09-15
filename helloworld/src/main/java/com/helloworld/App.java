@@ -1,6 +1,7 @@
 package com.helloworld;
 
 /**
+ * This program was created using the maven-archetype-quickstart file format
  * Hello world!
  *
  */
